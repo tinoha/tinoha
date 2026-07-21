@@ -1,16 +1,13 @@
-## Hi, I'm Tino 👋
+# 👋 Hi, I'm Tino. 
 
-<!--
-**tinoha/tinoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional from Finland with a background in enterprise IT.
 
-Here are some ideas to get you started:
+I enjoy exploring modern technologies and learning how they can be applied to build practical, reliable and maintainable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I experiment, learn and share projects along the way.
+
+## Featured projects
+
+- [**Homelab**](https://github.com/tinoha/homelab) – A GitOps-managed hybrid Kubernetes environment running on Talos Linux with Azure integration. Built to experiment with modern infrastructure and cloud-native operations.
+
+- [**Omada Controller**](https://github.com/tinoha/omada-controller) – A containerized TP-Link Omada Software Controller with reproducible build and deployment instructions for Docker, Podman and Kubernetes.
